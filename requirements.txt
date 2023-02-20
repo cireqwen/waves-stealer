@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+pywin32
+wget
+wmi
